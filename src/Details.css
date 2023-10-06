@@ -1,0 +1,38 @@
+/* Details.css */
+
+/* Style for the container */
+/* Change 'your-details-class' to the appropriate class name */
+.your-details-class {
+    text-align: left;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  /* Style for the header */
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the details paragraphs */
+  p {
+    margin: 5px 0;
+  }
+  
+  /* Style for the File CID link */
+  a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  /* Style for the File CID link on hover */
+  a:hover {
+    text-decoration: underline;
+  }
+  
+
+  
